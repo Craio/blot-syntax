@@ -1,5 +1,3 @@
-# blot-syntax theme
+# blot-syntax
 
-A short description of your theme.
-
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![blot](https://user-images.githubusercontent.com/6562852/33358243-463fbed4-d4bf-11e7-8335-90f70e53f3af.png)
