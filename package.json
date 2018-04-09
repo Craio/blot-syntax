@@ -1,7 +1,7 @@
 {
   "name": "blot-syntax",
   "theme": "syntax",
-  "version": "5.3.0",
+  "version": "5.4.0",
   "description": "Personal syntax theme for Atom",
   "keywords": [
     "syntax",
